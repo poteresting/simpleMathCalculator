@@ -56,9 +56,9 @@ while index != len(operators_list):
 
 #This block will perform the final operations with + and - operators
 if len(operators_list) == 1 and operators_list[0] == '+': #if all the operations have been performed and the only operator left at the front of the number will become its sign
-    print(ans)
+    print("simpleMathCalculator's answer: ", ans)
 elif len(operators_list) == 1 and operators_list[0] == '-':
-    print('-' + str(ans))
+    print("simpleMathCalculator's answer: ", -ans)
 elif len(operators_list) > 1:
     answer = 0.0
     for val in range(0, len(matched_num)):
