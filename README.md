@@ -1,2 +1,3 @@
 # simpleMathCalculator
-Project : This calculator performs simple mathematical operation that follows mathematical rules of operation. The code consists basic operations (+, -, *, /) only and demonstrates how eval() function works by using regex in python. 
+Project : Using Regex (regular expressions) to perform simple mathematical operation. 
+The project can work on operators - (+, -, \*, /) and **demonstrate how eval() function works by using regex in python.**
