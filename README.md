@@ -1,6 +1,8 @@
 # simpleMathCalculator
-Project : Using Regex to perform simple mathematical operation. 
-The project can work on operators - (+, -, \*, /) and **demonstrate how eval() function works by using regex in python.**
+Project : Maths expression Calculator
 
+Description: Using Regex to perform simple mathematical operations with input expression. Alternative to eval() function.
+
+Note: The project can work on operators - (+, -, \*, /)
 
 Concept - Regex (regular expressions)
